@@ -1,7 +1,11 @@
 present_themes:
-  01f5ee5b-d823-4abd-bcb3-d56b1cdc7163: themes\light\gameboy-green-light.yml
-  449b4817-c6e7-480b-bdb4-df44085cdd6d: themes\dark\gameboy-green-dark.yml
- 
+  01f5ee5b-d823-4abd-bcb3-d56b1cdc7163:
+    theme: themes/light/gameboy-green-light.yml
+    markdown: docs/gameboy-green-light.md
+  449b4817-c6e7-480b-bdb4-df44085cdd6d:
+    theme: themes/dark/gameboy-green-dark.yml
+    markdown: docs/gameboy-green-dark.md
+
 theme_provider: official_ivan
 for_program: prpg
 desc: "The Official Theme provider that must be installed by default in clients"

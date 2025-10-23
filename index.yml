@@ -1,0 +1,12 @@
+present_themes:
+  01f5ee5b-d823-4abd-bcb3-d56b1cdc7163: themes\light\gameboy-green-light.yml
+    images_dir: images\01f5ee5b-d823-4abd-bcb3-d56b1cdc7163
+ 
+theme_provider: official_ivan
+for_program: prpg
+desc: "The Official Theme provider that must be installed by default in clients"
+certified_by_ivan: true
+theme_format: yml
+date_created: 23/10/2025
+theme_provider_type: official
+tags: "nsfw_images_allowed, moonandsun, official, prpg"

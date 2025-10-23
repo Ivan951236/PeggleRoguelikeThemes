@@ -8,4 +8,4 @@ Thus you do not need to install it since it is already installed
 
 Gallery:
 
-![Light Mode Preview](/images/01f5ee5b-d823-4abd-bcb3-d56b1cdc7163)
+![Light Mode Preview](/images/01f5ee5b-d823-4abd-bcb3-d56b1cdc7163/1.png)

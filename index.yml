@@ -1,6 +1,8 @@
 present_themes:
   01f5ee5b-d823-4abd-bcb3-d56b1cdc7163: themes\light\gameboy-green-light.yml
     images_dir: images\01f5ee5b-d823-4abd-bcb3-d56b1cdc7163
+  449b4817-c6e7-480b-bdb4-df44085cdd6d: themes\dark\gameboy-green-dark.yml
+    images_dir: images\449b4817-c6e7-480b-bdb4-df44085cdd6d
  
 theme_provider: official_ivan
 for_program: prpg

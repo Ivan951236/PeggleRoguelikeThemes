@@ -1,0 +1,9 @@
+name: Gameboy Green (Dark)
+mode: dark
+primary: "#8BAC0F"
+onPrimary: "#000000"
+background: "#0F380F"
+onBackground: "#E0F8D0"
+surface: "#0F380F"
+onSurface: "#E0F8D0"
+outline: "#306230"

@@ -15,14 +15,14 @@ present_themes:
     name: Gameboy Green (Light)
     category: light
     theme: themes/light/gameboy-green-light.yml
-    markdown: docs/gameboy-green-light.md
+    markdown: themes/light/gameboy-green-light.md
     theme_tags: ["green", "gameboy", "light"]
     
   449b4817-c6e7-480b-bdb4-df44085cdd6d:
     name: Gameboy Green
     category: dark
     theme: themes/dark/gameboy-green-dark.yml
-    markdown: docs/gameboy-green-dark.md
+    markdown: themes/dark/gameboy-green-dark.md
     theme_tags: ["green", "gameboy", "dark"]
 
   3a9a2e5c-4d6b-4b1c-9b1b-9a2e5c4d6b4b:

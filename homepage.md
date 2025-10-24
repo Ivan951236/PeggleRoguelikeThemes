@@ -1,4 +1,4 @@
-![Banner](/Banner.webp)
+![Banner](/Banner.png)
 
 # Ivan's Official Theme Provider
 
